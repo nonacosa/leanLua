@@ -42,6 +42,7 @@ while a[i] do
     i = i + 1 -- not support i ++
 end
 
+-- lua 没有 continue 用 goto 代替
 -- goto
 
--- ::redo::     +      ::continue::
+--   ::continue::  名字不固定
